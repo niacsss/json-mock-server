@@ -1,6 +1,6 @@
 {
   "name": "@niacsss/json-mock-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple REST API that returns JSON",
   "main": "server.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "author": "niacsss",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.3"
+    "express": "^4.18.3",
+    "nodejs-env-checker": "^1.0.10"
   }
 }
